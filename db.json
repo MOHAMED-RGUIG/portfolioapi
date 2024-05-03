@@ -1,0 +1,43 @@
+[ 
+    {
+        "id": 1,
+        "title": "Lavazza online coffee shop ",
+        "description": "The Lavazza topclass online coffee shop developped with HTML,CSS,JS,REACT,NEXT,FETCH API,JSON,GITHUB,NODE,EXPRESS,MONGOODB",
+        "category": "Ecommerce-app",
+        "Society":"Lavazza TopClass",
+        "Date":"2024",
+        "url":"/",
+        "image": "https://i.imghippo.com/files/tw3qG1714735092.png"
+    },  
+    {
+        "id": 2,
+        "title": "Mohamed rguig portfolio",
+        "description": "The Lavazza topclass online coffee shop developped with HTML,CSS,JS,REACT,NEXT,FETCH API,JSON,GITHUB,NODE,EXPRESS,MONGOODB",
+        "category": "Professionel portfolio",
+        "Society":"Owner",
+        "Date":"2024",
+        "url":"/",
+        "image": "https://i.imghippo.com/files/EAqST1714735135.png"
+    }
+    ,
+    {
+        "id": 3,
+        "title": "Mapping Technologies",
+        "description": "Website for mapping company , developped with HTML,CSS,JS,BOOTSTRAP",
+        "category": "Website",
+        "Society":"Udemy",
+        "Date":"2023",
+        "url":"https://mohamed-rguig.github.io/MappingTechnologies-rguig/",
+        "image": "https://i.imghippo.com/files/270MQ1714735169.png"
+    },
+    {
+        "id": 4,
+        "title": "Med-Agency",
+        "description": "Website for mapping company , developped with HTML,CSS,JS,BOOTSTRAP",
+        "category": "Personnel",
+        "Society":"Owner",
+        "Date":"2023",
+        "url":"https://mohamed-rguig.github.io/MedAgency-rguig/",
+        "image": "https://i.imghippo.com/files/y3nul1714735197.png"
+    }
+]
